@@ -1,2 +1,0 @@
-# graysonsweb
-My personal website.
